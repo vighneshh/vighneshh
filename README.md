@@ -19,7 +19,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Qlik Sense](https://iconape.com/qlik-logo-logo-icon-svg-png.html)&nbsp;
+![Qlik Sense](https://raw.githubusercontent.com/vighneshh/vighneshh/master/qlik-seeklogo.com.svg)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
 <br />
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
