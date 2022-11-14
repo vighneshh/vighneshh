@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vighnesh Gawad</h1>
-<h3 align="center">A passionate Qlik Sense developer from Mumbai,India</h3>
+<h3 align="center">A passionate Qlik Sense Developer from Mumbai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighneshh&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-gawad" /> </p>
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vighnesh-gawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vighnesh-gawad" height="20" width="40" /></a>
+
 
 
 
@@ -36,6 +37,7 @@
 <br />
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
+
 
 
 ## &#x1f4c8; GitHub Stats
