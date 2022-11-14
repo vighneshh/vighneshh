@@ -20,6 +20,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 <img align="center" src="https://raw.githubusercontent.com/vighneshh/vighneshh/master/qlik-seeklogo.com.svg" alt="qlik-seeklogo" height="20" width="40" />
+
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
 <br />
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
