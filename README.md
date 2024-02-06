@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighneshh&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh-gawad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vighneshh&theme=onedark" alt="vighnesh-gawad" /></a> </p>
 
 - 🌱 I’m currently working on **Qlik Sense, Qlik Nprinting, Qlik Cloud**
 
