@@ -43,6 +43,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vighneshh&show_icons=true&locale=en&layout=compact" alt="vighneshh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighneshh&show_icons=true&locale=en" alt="vighnesh-gawad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighneshh&" alt="vighnesh-gawad" /></p>
