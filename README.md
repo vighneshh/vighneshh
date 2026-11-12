@@ -14,49 +14,33 @@ Beyond BI, I'm passionate about data engineering, automation, and exploring how 
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack & Expertise
 
 **Business Intelligence & Analytics**
 
-- Qlik Sense Enterprise & Cloud
-- QlikView
-- Qlik NPrinting
-- Dashboard Architecture & Development
-- Data Modeling & ETL
-- Custom Extensions & Mashups
-- Embedded Analytics
+![Qlik](https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge&logo=qlik&logoColor=white)
+![QlikView](https://img.shields.io/badge/QlikView-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
 **Data Engineering & Databases**
 
-- SQL
-- Snowflake
-- dbt
-- Google BigQuery
-- Python (Pandas, NumPy)
-- Data Transformation & Automation
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-**Programming & Web Technologies**
+**Programming & Web Development**
 
-- JavaScript
-- HTML5 & CSS3
-- Bootstrap
-- Python
-- REST APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **AI & Emerging Technologies**
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI-powered applications
-- LLM API integrations
-
-**Leadership & Delivery**
-
-- Analytics Project Management
-- Agile Delivery
-- Stakeholder Management
-- Team Leadership & Mentoring
-- Requirements Gathering
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
